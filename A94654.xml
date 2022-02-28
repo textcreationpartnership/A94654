@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the right honourable the Lords and Commons in Parliament assembled The humble petition of many thousands of wel-affected inhabitants of the counties of Middlesex, Essex, Kent, Surrey, Hertford, Berks, Buckingham, Oxford, Bedford, Sussex, Northampton, Dorset, Somerset, Lancaster, Lincoln, Chester, Durham, Cumberland, Warwick and Worcester, against the intolerable oppression and undoing grievance of free quarter.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94654</idno>
+            <idno type="STC">Wing T1682</idno>
+            <idno type="STC">Thomason 669.f.11[104]</idno>
+            <idno type="STC">ESTC R210722</idno>
+            <idno type="EEBO-CITATION">99869488</idno>
+            <idno type="PROQUEST">99869488</idno>
+            <idno type="VID">162756</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94654)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162756)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f11[104])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the right honourable the Lords and Commons in Parliament assembled The humble petition of many thousands of wel-affected inhabitants of the counties of Middlesex, Essex, Kent, Surrey, Hertford, Berks, Buckingham, Oxford, Bedford, Sussex, Northampton, Dorset, Somerset, Lancaster, Lincoln, Chester, Durham, Cumberland, Warwick and Worcester, against the intolerable oppression and undoing grievance of free quarter.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>In this edition line two has the word "Parliament".</note>
+                  <note>Recites the sufferings of petitioners in defence of Parliament, the tax of 60,000 pounds monthly, the evil deeds of the army, whose remonstrance was voted (9 November) destructive to to the very being of Parliaments, who have reduced Parliament to impotence. Now, by free quartering, they are ruining the country -- Cf. Steele.</note>
+                  <note>Annotation on Thomason copy: "Decemb. 9th London 1647".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Soldiers --  Billeting --  Early works to 1800.</term>
+               <term>Great Britain --  Militia --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:162756:1" rendition="simple:additions"/>
+            <head>To the Right Honorable the Lords and Commons
+in PARLIAMENT aſſembled.
+The humble Petition of many thouſands of wel-affected inhabitants of the Counties of Middleſex, Eſſex,
+Kent, Surrey, Hertford, Berks, Buckingham, Oxford, Bedford, Suſſex, Northampton,
+Dorſet, Somerſet, Lancaſter, Lincoln, Cheſter, Durham, Cumberland, Warwick and
+Worceſter, againſt the intolerable Oppreſsion and <g ref="char:V">Ʋ</g>ndoing Grievance of FREE Q<g ref="char:V">Ʋ</g>ARTER.</head>
+            <opener>HUmbly with bended knees and bleeding hearts complaining to your honours,</opener>
+            <p>That whereas Your Petitioners out of their good affe<g ref="char:EOLhyphen"/>ctions
+to this Parliament have, during the late expenſive Wars, exhauſted their treaſure, ſpent and loſt their Eſtates, hazarded their
+Lives, Limbs, and ſhed their deareſt blood in defence of Your honours, and our own juſt Rights and Liberties, the happy fruits
+whereof we aſſuredly expected to reap, ever ſince the totall diſſipation of his Majeſties Malignant Forces and Garriſons; yet ſo it
+is we find (to our greateſt grief and aſtoniſhment) our inſupportable burdens and preſſures every day multiplyed and increaſed, and our native
+Rights and Liberties more violated and undermined of late then ever, and that not onely by malicious enemies, but by thoſe you have raiſed to
+preſerve, and have long promiſed to make us Free-men; ſo as abſolute neceſſity, and the ſenſe of our own inevitable ruin (if not of the whole
+kingdome too) enforce us to be no longer ſtupidly ſilent, but to preſent our joynt Complaints unto your Eyes in Print, which can finde no
+paſſage into your Eares or Houſes in writing, by reaſon of other Intervenient affairs of greater moment.</p>
+            <p>Be pleaſed therefore affectionately to receive this ſad dolorous Information of our preſent deſperate condition, that beſides the conſtant Tax
+of Exciſe and other Contributions, Your impovered Petitioners are over-laden with a late monethly Tax of ſixty thouſand Pounds, (which
+the Army preſſe to be augmented to one hundred thouſand) to ſupport a degenerated mutinous, ſeditious, and Rebellious Souldiery, long ſince
+Voted by you to disband, who for divers moneths laſt paſt have refuſed to obey your Commands, infringed your Priviledges, impeached, ſuſ<g ref="char:EOLhyphen"/>pended
+or expelled your faithful Members; unvoted your Votes, repealed your Ordinances, removed you ancient Guards, and put new of their
+own upon you; thrown down your defenſive works, accuſed and ſhut up ſome of your faithfulleſt friends as Traytors, divided the City and
+Country from you, poſſeſſed themſelves of all your Forts, if not of the Navy too, raviſhed and kept the Kings Perſon out of your cuſtody, yea
+lately plotted his deſtruction; declared you for ſome time no Parliament, preſcribed periods to your ſitting, voted down the Houſe of Peers,
+and all old forms of Parliament to ſet up a new-molded one of their own, and preſented you frequently with ſuch ſeditious and treaſonable
+Papers and Remonſtrances, as your ſelves have <hi>(Nov.</hi> 9. 1647.) <hi>voted</hi> to be, <hi>deſtructive to the very being of Parliaments, and to the Fundamental
+Government of the Kingdom;</hi> which yet they ſtil preſs a freſh upon you, erected a new Parliament a grand Counſel of State of their own at
+the Head quarters, which receives and anſwers all publick Petitions, reſolves all matters of State and Government upon the queſtion, which
+th<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y ſend to your Honors as their underlings to confirm, print, publiſh Remonſtrances, Declarations and Edicts to you and us by their own ſpecial
+Or<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers, hold intelligence with moſt dangerous Malignants in Arms, who reſide in the Armies quarters, are now more the Kings Army then
+Yo<gap reason="illegible: missing" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s, whoſe deſigns they have driven on of late, and with whom their Grandees are now accorded, and rendred you once the moſt powerful
+glorious and beſt-beloved Parliament ever <hi>England</hi> had, now the moſt aydleſs, friendleſs, faithleſs, moſt il-beloved, deſpicable and diſhono<g ref="char:EOLhyphen"/>rable
+Aſſembly that ever ſate within <hi>Engliſh</hi> ground: when under pretext of purging and reforming your Honours, and vindicating our loſt
+Freedomes, have by their late <hi>FREE QUARTERING</hi> upon us, rendred us no better then meer conquered ſlaves (as ſome of them call
+us to our faces) and like ſo many <hi>Egyptian</hi> Locuſts ſeed ſo long upon us of free coſt, till they, their horſes, wives and trulls, have totally conſu<g ref="char:EOLhyphen"/>med
+all the Money in our Purſes, the Corn in our Barns, the graſs in our fields, the Hay, Oats, Peaſe and Beans in our Stables, the ſtock in
+our grounds. the proviſions in our houſes, and expoſed us and ours this cold Winter ſeaſon and time of ſcarcity to the mercileſs jaws of penury
+and famine, now ready to devour us without pity or relief, notwithſtanding our many doleful complaints to your Honors and the General
+for Redreſs.</p>
+            <p>This our deplorable condition conſtraineth us to inform Your Honors, that the Lords &amp; Commons aſſembled in Parliament in the 3-year of his
+Majeſties reign in their memorable Petition of Right, when only ſome two or three thouſand Soldiers and Mariners were thinly diſperſed into
+divers Counties of the Realm and there billeted in mens houſes againſt their wills but for one moneth or two, and payd moſt of their quarters,
+did yet ſo tenderly reſent this inchroachment on our Freedoms, that they grievouſly complained thereof to his Majeſty in that Petition, AS A
+GREAT GREIVANCE AND VEXATION TO HIS PEOPLE AGAINST THE LAWS AND CUSTOMES OF
+THE REALM, and <hi>humbly prayed as their Right and Liberty, according to the Laws and Statutes of this Kingdome, That he would be pleaſed
+to remove the ſaid Souldiers and Marriners; and that his people might not be ſo burthened in time to come;</hi> Which his Majeſty graciouſly conde<g ref="char:EOLhyphen"/>ſcended
+unto as their juſt Right: And therefore ſince we have for ſome moneths and years laſt paſt, been ten thouſand times more oppreſſed
+with the Quartering of Souldiers in our Houſes againſt our Wills, then the whole Kingdome was then, to our utter deſtruction, and brea<g ref="char:EOLhyphen"/>king
+of our very backs and hearts; and are clean eaten up to our very skins and bones, as many of your own Members can witneſs, and the Ar<g ref="char:EOLhyphen"/>my
+it ſelf confeſſeth in ſome of their late publiſhed Papers: We do now humbly demand and challenge this at your hands, not as a favour,
+but our <hi>
+                  <g ref="char:V">Ʋ</g>ndoubted Right and Hereditary Freedome,</hi> which you have faithfully engaged in ſundry <hi>Remonſtrances,</hi> and ſolemnly ſworn in your
+<hi>Nationall Vow and Covenant to maintain with your lives,</hi> and for defence whereof we have ſpent our blood and Eſtates in the late Wars, and to
+prevent our imminent deſtruction, and the eaſing of our ſelves by general inſurrections and open violence, which we muſt be neceſſitated to, a<g ref="char:EOLhyphen"/>gainſt
+our liking, if any longer denyed or delayed right, relief and eaſe herein, you wil now at the laſt forthwith publikely declare againſt and
+prohibit all free quartering on us for the future againſt our wils under pain of Felony and death, diſcharge our quarters already taken out of
+the Souldiers Arrears (who have raiſed and received double if not treble their pay of us in free quarter alone) disband all ſupernumerary forces
+and recruits entertained ſince <hi>January</hi> laſt, reduce the Army to as ſmal a number as poſſible, and that of ſuch Officers and Soldiers only who have
+taken the Covenant, and are neither Seditious nor Schiſmatical; to be quartered only in common Victualing houſes, Innes and Ale-houſes,
+without allowing their horſes provender (whiles they lie idle) in this time of famine, when we our families and the poor are ready to famiſh
+for want of bread: and that no Member of either Houſe, their Sons, or dependants ſit in Counſel or may continue in office, belonging to the
+Army or any Ship, any Garriſon, to protract our troubles and payments for their private ends and luchre.</p>
+            <p>And we ſhal ever pray for and live and dye with your Honors in all your juſt proceedings. And prove a better and cheaper Guard to You and
+the Kingdom (if put into a preſent posture of defence as they deſire) then any indigent and inconfiding Mercenaries.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
